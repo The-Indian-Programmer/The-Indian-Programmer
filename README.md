@@ -9,8 +9,6 @@
 
 
 
-- 🤔 &nbsp; Simple intermediate student who chose the field of software engineering as a career and
-wants to make his career as a web developer. I have nothing to do other than programming.
 
 - 🎓 &nbsp; Self Taught Programmer  |  Full Stack Mern Developer 
 
