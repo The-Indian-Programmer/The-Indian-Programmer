@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Kosta</h1>
-<h3 align="center">Full-stack MERN developer</h3>
+<h3 align="center">Full-stack Blockchain developer</h3>
 
 <hr>
 
@@ -10,10 +10,10 @@
 
 
 
-- 🎓 &nbsp; Self Taught Programmer  |  Full Stack Mern Developer 
+- 🎓 &nbsp; Self Taught Programmer  |  Full Stack Blockchain Developer 
 
 
-- 💬 Ask me about **React, JavaScript, Node JS**
+- 💬 Ask me about **React, JavaScript, Node JS, Blockchain Technology, Cryptography, Consenus Algorithms, Distributed Systems, Web3 Technology, Smart Contracts **
 
 - 📫 How to reach me **sumitkosta07@gmail.com*
 
@@ -25,9 +25,7 @@
 
 
 
-<h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Digital Ocean | React Native 
 
 <hr>
 
