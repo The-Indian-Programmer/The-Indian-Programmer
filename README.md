@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Kosta</h1>
-<h3 align="center">Full-stack Blockchain developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 <hr>
 
