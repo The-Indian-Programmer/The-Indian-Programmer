@@ -10,7 +10,7 @@
 
 
 
-- 🎓 &nbsp; Self Taught Programmer  |  Full Stack Blockchain Developer 
+- 🎓 &nbsp; Self Taught Programmer  |  Full Stack Developer 
 
 
 - 💬 Ask me about **React, JavaScript, Node JS, Blockchain Technology, Cryptography, Consenus Algorithms, Distributed Systems, Web3 Technology, Smart Contracts **
