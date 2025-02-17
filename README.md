@@ -35,7 +35,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sumit-kosta-4a081220b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumitkosta" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sumit.kosta.589" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sumitkosta" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sumit.kosta.589" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/512px-2021_Facebook_icon.svg.png" alt="sumitkosta" height="30" width="40" /></a>
 <a href="https://www.instagram.com/coding_sumit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sumitkosta" height="30" width="40" /></a
 </p>
 
