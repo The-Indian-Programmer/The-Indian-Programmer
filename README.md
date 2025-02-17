@@ -33,7 +33,7 @@
 
 <h3>🎮 Game Development:</h3>
 <ul>
-<li>🎲 JavaScript Game Engines | 🎮 Unity (C#) | 🌐 WebSockets for Multiplayer</li>
+<li>🎲 JavaScript Game Engines | 🌐 WebSockets for Multiplayer</li>
 </ul>
 
 <h2>🚀 Projects</h2>
