@@ -13,7 +13,7 @@
 - 🎓 &nbsp; Self Taught Programmer  |  Full Stack Developer 
 
 
-- 💬 Ask me about **React, JavaScript, Node JS, Blockchain Technology, Cryptography, Consenus Algorithms, Distributed Systems, Web3 Technology, Smart Contracts **
+- 💬 Ask me about <b>React, JavaScript, Node JS, Blockchain Technology, Cryptography, Consenus Algorithms, Distributed Systems, Web3 Technology, Smart Contracts </b>
 
 - 📫 How to reach me **sumitkosta07@gmail.com*
 
