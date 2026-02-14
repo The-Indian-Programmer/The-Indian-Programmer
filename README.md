@@ -1,10 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
-
 <h1>Hi there! 👋 I'm Sumit Kosta 🚀</h1>
-<p aign="left">
-  <img src="https://camo.githubusercontent.com/31ad84ae590e2cc6dec805b18c8d8a5880e36625351dfa4dc87c88b83d5dbb94/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f65485178684e56746c504d75444d714c46662f67697068792e676966" width="60" height="60"/>
-</p>
-
 </div>
 
 <h3>💻 Java Full Stack Developer </h3>
